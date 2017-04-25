@@ -1,3 +1,5 @@
 # hello-world
-Just another repository 
-My name is Hannah! Lets see what we can accomplish..
+
+My name is Hannah! 
+
+Let's see what we can accomplish...
